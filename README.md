@@ -1,5 +1,5 @@
 
-![portada fiver](https://github.com/user-attachments/assets/040c8261-c0c5-4e0f-a626-5c9ce60bf246)
+<img width="1400" alt="verde nombre con gradiente y developer" src="https://github.com/user-attachments/assets/433ffd06-ecaf-4888-9e87-a5fae03ce650" />
 
 ### 🟨 Hi all,  my name is Damián
 
