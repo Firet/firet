@@ -1,9 +1,9 @@
 
 <img width="1400" alt="verde nombre con gradiente y developer" src="https://github.com/user-attachments/assets/433ffd06-ecaf-4888-9e87-a5fae03ce650" />
 
-### 🟨 Hi all,  my name is Damián
+### 🟩 Hi all,  my name is Damián
 
-I'm a **user interface** designer with experience in front-end development.
+I'm a **Full stack developer** with design experience.
 
 I love designing interfaces and focusing on user experience.
 
